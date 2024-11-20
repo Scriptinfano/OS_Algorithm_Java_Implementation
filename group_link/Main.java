@@ -1,9 +1,3 @@
-/*************************************************************************
-	> File Name: Main.java
-	> Author: amoscykl
-	> Mail: amoscykl@163.com 
-	> Created Time: 四 11/14 15:56:02 2024
- ************************************************************************/
 package os_experiment.group_link;
 
 import java.util.*;
