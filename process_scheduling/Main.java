@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: Main.java
-	> Author: amoscykl
-	> Mail: amoscykl@163.com 
-	> Created Time: 四 11/14 16:00:15 2024
- ************************************************************************/
-
 package os_experiment.process_scheduling;
 
 import java.util.Arrays;
